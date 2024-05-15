@@ -1,0 +1,80 @@
+/* CSS CATATAN */
+.classdiv1 {
+    padding-top: 20px;
+}
+.txtcatatan {
+    background-color: cyan;
+    color: blue;
+}
+.divclass11 {
+    padding-top: 10px;
+}
+.form-control {
+    width: 675px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.floatingTextarea {
+    margin-left: 30px;
+}
+/* END CSS CATATAN */
+
+/* CSS KOP */
+h1,
+h3,
+h5,
+h6 {
+    text-align: center;
+    padding-left: 30px;
+
+}
+
+.row {
+    margin-top: 10px;
+    /* background-color: cyan; */
+}
+
+.kablogo {
+    font-size: 5vw;
+    color: #6DB9EF;
+    /* bottom: 100px; */
+}
+
+.alamatlogo {
+    font-size: 1.7vw;
+    /* top: 100px; */
+}
+
+.kodeposlogo {
+    font-size: 1.7vw;
+}
+
+.garis1 {
+    border-top: 3px solid black;
+    height: 2px;
+    border-bottom: 1px solid black;
+}
+
+#logo {
+    margin: auto;
+    margin-left: 3%;
+    margin-right: auto;
+}
+/* END CSS KOP */
+
+.row {
+    padding-top: 30px;
+    overflow: hidden;
+}
+.txtpemeriksa {
+    float: left;
+    width: 200px;
+    padding-right: 24px;
+}
+.form-select {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
